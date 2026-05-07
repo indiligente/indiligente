@@ -3,4 +3,4 @@ I am currently interested in Software Engineering, low level programming, algori
 
 My main languages are C, rust and JavaScript (just because of the web, I swear), plus python. If you see java around here ignore it, I’m probably being forced by the college
 
-I’m currently revisiting the basics of computing, maybe you’ll find something about calculus, automata and things like that ;)
+I’m currently revisiting the basics of computing, maybe you’ll find something about automata, haskell, OS, Arch. Org and things like that ;)
